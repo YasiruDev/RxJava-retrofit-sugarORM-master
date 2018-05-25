@@ -15,7 +15,7 @@ Retrofit is a REST client for Android developed by Square. The library provides 
 #### Usage
 clone it to a local repository in your machine :
 ```
-git clone https://github.com/YasiruDev/retro-sugar-master.git
+git clone https://github.com/YasiruDev/RxJava-retrofit-sugarORM-master.git
 ```
 or simply click on `Download.zip` .
 
