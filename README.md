@@ -3,6 +3,7 @@ A simple example App usage of RxJava + Retrofit + SugarORM
 
 #### Description
 This is a sample Android Studio project to get started with RxJava,Retrofit and SugarORM.
+Retrofit is a REST client for Android developed by Square. The library provides a powerful framework for authenticating and interacting with APIs and sending network requests with OkHttp.This simple application guid how to call API using RxAndroid,Retrofit then store data on your local storage using SugarORM.
 
 #### Technologies and Libraries used
 
